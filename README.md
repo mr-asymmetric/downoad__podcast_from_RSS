@@ -1,4 +1,4 @@
-# downoad__podcast_from_RSS
+# Downoad Podcast from RSS
 Download all podcasts via RSS feed
 
 
